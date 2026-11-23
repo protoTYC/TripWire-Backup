@@ -1,3 +1,9 @@
+## About TripWire
+
+TripWire helps employers manage international employee
+assignments by tracking visa deadlines, document
+requirements, and compliance tasks.
+
 # TripWire
 
 A working administrative workspace for business travel and visa preparation. Built with React, TypeScript and Vite, with Poppins, Archivo Black and TripWire’s navy/lavender palette.
